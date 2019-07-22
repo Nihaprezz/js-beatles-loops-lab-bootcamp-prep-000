@@ -10,9 +10,10 @@ function theBeatsPlay(arrayMusicians, arrayInstruments){
 function johnLennonFacts(array){
   var i =0;
   while (i < array.length){
-    console.log(array[i]);
+    array[i] =`${array[i]}!!!`
     i++
   }
+  return array;
 }
 
 const facts = [
