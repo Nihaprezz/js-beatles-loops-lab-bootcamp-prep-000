@@ -24,4 +24,4 @@ function iLoveTheBeatles(num){
   return testArray;
 }
 
-iLoveTheBeatles(8);
+console.log(iLoveTheBeatles(8));
