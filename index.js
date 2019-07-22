@@ -24,3 +24,4 @@ const facts = [
 ];
 
 johnLennonFacts(facts);
+console.log(facts)
