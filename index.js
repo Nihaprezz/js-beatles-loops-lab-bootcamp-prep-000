@@ -1,5 +1,5 @@
 // add solution here
-function theBeatsPlay(arrayMusicians, arrayInstruments){
+function theBeatlesPlay(arrayMusicians, arrayInstruments){
   var testArray = [];
   for (var i = 0; i < arrayMusicians.length; i++){
     testArray[i] = `${arrayMusicians[i]} plays ${arrayInstruments}`
