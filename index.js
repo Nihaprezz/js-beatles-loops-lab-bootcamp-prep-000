@@ -23,3 +23,5 @@ function iLoveTheBeatles(num){
   } while (num < 15);
   return testArray;
 }
+
+iLoveTheBeatles(8);
